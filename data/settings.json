@@ -7,7 +7,7 @@
   "title": "暮冬导航 - 精选实用导航网站",
   "description": "暮冬导航 - 精选实用导航网站",
   "keywords": "暮冬导航,设计师导航,实用工具导航,学习资源导航",
-  "theme": "Sim",
+  "theme": "Light",
   "appTheme": "App",
   "headerContent": "",
   "footerContent": "<div style=\"font-weight: bold;\">暮冬导航共收录${total}个网站</div><div>Copyright © 2018-present MuDong.cc, All Rights Reserved</div>",
@@ -29,7 +29,7 @@
     }
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
-  "simThemeHeight": 350,
+  "simThemeHeight": 888,
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
