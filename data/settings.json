@@ -10,13 +10,13 @@
   "theme": "Side",
   "appTheme": "App",
   "headerContent": "",
-  "footerContent": "<div style=\"font-weight: bold;\">暮冬导航共收录${total}个网站</div><div>Copyright © 2018-present MuDong.cc, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">暮冬导航共收录${total}个网站</div><div>Copyright © 2023-present MuDong.cc, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "",
       "url": "",
       "width": null,
       "height": null
@@ -27,7 +27,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "",
       "url": "",
       "width": null,
       "height": null
